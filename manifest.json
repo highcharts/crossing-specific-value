@@ -1,8 +1,10 @@
 {
     "name": "Crossing-Specific-Values",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Axis Crossing At Specific Value",
-    "jsfiddle": "http://jsfiddle.net/highcharts/jsCJF/",
+    "demo": [
+        "http://jsfiddle.net/highcharts/jsCJF/"
+    ],
     "author": {
         "name": "Torstein Hønsi",
         "url": "https://github.com/highslide-software"
