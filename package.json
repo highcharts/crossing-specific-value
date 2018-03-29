@@ -1,0 +1,24 @@
+{
+  "name": "Crossing-Specific-Values",
+  "version": "1.0.2",
+  "description": "This feature lets you specify specific values where the axis should cross.",
+  "main": "crossing-specific-values.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highcharts/crossing-specific-value.git"
+  },
+  "keywords": [
+    "highcharts",
+    "plugin",
+    "highcharts-addon"
+  ],
+  "author": "Torstein Hønsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highcharts/crossing-specific-value/issues"
+  },
+  "homepage": "https://github.com/highcharts/crossing-specific-value#readme"
+}
