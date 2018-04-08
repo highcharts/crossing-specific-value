@@ -1,5 +1,5 @@
 {
-  "name": "Crossing-Specific-Values",
+  "name": "highcharts-crossing-specific-values",
   "version": "1.0.2",
   "description": "This feature lets you specify specific values where the axis should cross.",
   "main": "crossing-specific-values.js",
